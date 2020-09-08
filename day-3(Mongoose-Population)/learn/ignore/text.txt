@@ -1,0 +1,6 @@
+// module.exports = Critic
+// module.exports = Book
+// module.exports = Review
+// const Book = require('Book')
+// const Review = require('Review')
+// const Critic = require('Critic')
